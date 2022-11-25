@@ -69,7 +69,7 @@ AUTH_USER_MODEL = 'usuarios.Usuario'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'consorcios',
+        'NAME': 'misquin',
         'HOST': 'localhost',
         'PORT': '3307',
         'USER': 'root',
